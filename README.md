@@ -3,7 +3,7 @@ Natural Language query engine to answer queries about the big basket items.
 
 # Pre-requisites
 
-Clone this repository. Make a new environment, and run the following command: 
+Clone this repository. Make a new environment, and install pytorch from `https://pytorch.org/get-started/locally/`. After this install the requirements from the requirements.txt file as follows : 
 
 ```
 pip install -r requirements.txt
