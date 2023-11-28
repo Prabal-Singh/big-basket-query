@@ -1,0 +1,8 @@
+sentencepiece
+transformers
+sentence_transformers
+qdrant-client
+pandas
+tqdm
+streamlit
+torch-scatter
